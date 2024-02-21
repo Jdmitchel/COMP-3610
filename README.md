@@ -39,3 +39,4 @@ View the lab session: **[Zoom Meeting](https://sta-uwi-edu.zoom.us/rec/share/LX4
 ### 📧 Contact
 
 For any queries, reach out to [sergio.mathurin@sta.uwi.edu](mailto:sergio.mathurin@sta.uwi.edu).
+
